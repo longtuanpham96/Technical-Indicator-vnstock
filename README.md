@@ -1,1 +1,1 @@
-#Technical Indicators on vnstock data.
+Technical Indicators on vnstock data.

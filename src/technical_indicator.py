@@ -38,5 +38,4 @@ for i in range(period + 1, len(atr)):
 df['ATR'] = atr
 
 # Print message and display the first few rows
-print(f"Results have been saved to {output_file}")
 print(df[['date', 'High', 'Low', 'Close', 'ATR']].head(20))

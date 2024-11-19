@@ -1,0 +1,7 @@
+vnstock3
+requests
+pandas
+numpy
+matplotlib
+seaborn
+
